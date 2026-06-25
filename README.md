@@ -31,4 +31,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Sumit-Maity/Code-Challange/tree/master/0030-substring-with-concatenation-of-all-words) |
+## Linked List
+|  |
+| ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/Sumit-Maity/Code-Challange/tree/master/0025-reverse-nodes-in-k-group) |
+## Recursion
+|  |
+| ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/Sumit-Maity/Code-Challange/tree/master/0025-reverse-nodes-in-k-group) |
 <!---LeetCode Topics End-->
