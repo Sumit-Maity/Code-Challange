@@ -5,11 +5,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Sumit-Maity/Code-Challange/tree/master/0011-container-with-most-water) |
+| [0031-next-permutation](https://github.com/Sumit-Maity/Code-Challange/tree/master/0031-next-permutation) |
 ## Two Pointers
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Sumit-Maity/Code-Challange/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Sumit-Maity/Code-Challange/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0031-next-permutation](https://github.com/Sumit-Maity/Code-Challange/tree/master/0031-next-permutation) |
 ## Greedy
 |  |
 | ------- |
