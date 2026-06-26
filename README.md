@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Sumit-Maity/Code-Challange/tree/master/0012-integer-to-roman) |
+| [0029-divide-two-integers](https://github.com/Sumit-Maity/Code-Challange/tree/master/0029-divide-two-integers) |
 ## String
 |  |
 | ------- |
@@ -48,4 +49,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Sumit-Maity/Code-Challange/tree/master/0033-search-in-rotated-sorted-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/Sumit-Maity/Code-Challange/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
