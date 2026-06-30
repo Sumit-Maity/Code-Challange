@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Sumit-Maity/Code-Challange/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Sumit-Maity/Code-Challange/tree/master/0055-jump-game) |
 | [0079-word-search](https://github.com/Sumit-Maity/Code-Challange/tree/master/0079-word-search) |
+| [0118-pascals-triangle](https://github.com/Sumit-Maity/Code-Challange/tree/master/0118-pascals-triangle) |
 ## Two Pointers
 |  |
 | ------- |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Sumit-Maity/Code-Challange/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Sumit-Maity/Code-Challange/tree/master/0055-jump-game) |
+| [0118-pascals-triangle](https://github.com/Sumit-Maity/Code-Challange/tree/master/0118-pascals-triangle) |
 ## Divide and Conquer
 |  |
 | ------- |
