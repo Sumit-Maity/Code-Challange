@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Sumit-Maity/Code-Challange/tree/master/0055-jump-game) |
 | [0079-word-search](https://github.com/Sumit-Maity/Code-Challange/tree/master/0079-word-search) |
 | [0118-pascals-triangle](https://github.com/Sumit-Maity/Code-Challange/tree/master/0118-pascals-triangle) |
+| [0162-find-peak-element](https://github.com/Sumit-Maity/Code-Challange/tree/master/0162-find-peak-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Sumit-Maity/Code-Challange/tree/master/0033-search-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/Sumit-Maity/Code-Challange/tree/master/0162-find-peak-element) |
 ## Bit Manipulation
 |  |
 | ------- |
