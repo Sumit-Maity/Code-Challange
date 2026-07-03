@@ -2,7 +2,7 @@ from collections import defaultdict
 
 class Solution:
     def findTargetSumWays(self, nums, target):
-        dp = {0: 1}  # sum -> number of ways
+        dp = {0: 1}  
 
         for num in nums:
             next_dp = defaultdict(int)
