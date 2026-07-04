@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/Sumit-Maity/Code-Challange/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/Sumit-Maity/Code-Challange/tree/master/0029-divide-two-integers) |
+| [0223-rectangle-area](https://github.com/Sumit-Maity/Code-Challange/tree/master/0223-rectangle-area) |
 ## String
 |  |
 | ------- |
@@ -117,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0404-sum-of-left-leaves](https://github.com/Sumit-Maity/Code-Challange/tree/master/0404-sum-of-left-leaves) |
+## Geometry
+|  |
+| ------- |
+| [0223-rectangle-area](https://github.com/Sumit-Maity/Code-Challange/tree/master/0223-rectangle-area) |
 <!---LeetCode Topics End-->
