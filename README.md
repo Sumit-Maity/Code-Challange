@@ -130,14 +130,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0404-sum-of-left-leaves](https://github.com/Sumit-Maity/Code-Challange/tree/master/0404-sum-of-left-leaves) |
+| [0919-complete-binary-tree-inserter](https://github.com/Sumit-Maity/Code-Challange/tree/master/0919-complete-binary-tree-inserter) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0404-sum-of-left-leaves](https://github.com/Sumit-Maity/Code-Challange/tree/master/0404-sum-of-left-leaves) |
+| [0919-complete-binary-tree-inserter](https://github.com/Sumit-Maity/Code-Challange/tree/master/0919-complete-binary-tree-inserter) |
 ## Binary Tree
 |  |
 | ------- |
 | [0404-sum-of-left-leaves](https://github.com/Sumit-Maity/Code-Challange/tree/master/0404-sum-of-left-leaves) |
+| [0919-complete-binary-tree-inserter](https://github.com/Sumit-Maity/Code-Challange/tree/master/0919-complete-binary-tree-inserter) |
 ## Geometry
 |  |
 | ------- |
@@ -150,4 +153,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0648-replace-words](https://github.com/Sumit-Maity/Code-Challange/tree/master/0648-replace-words) |
+## Design
+|  |
+| ------- |
+| [0919-complete-binary-tree-inserter](https://github.com/Sumit-Maity/Code-Challange/tree/master/0919-complete-binary-tree-inserter) |
 <!---LeetCode Topics End-->
