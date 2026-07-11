@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/Sumit-Maity/Code-Challange/tree/master/0025-reverse-nodes-in-k-group) |
 | [0234-palindrome-linked-list](https://github.com/Sumit-Maity/Code-Challange/tree/master/0234-palindrome-linked-list) |
+| [0894-all-possible-full-binary-trees](https://github.com/Sumit-Maity/Code-Challange/tree/master/0894-all-possible-full-binary-trees) |
 ## Binary Search
 |  |
 | ------- |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/Sumit-Maity/Code-Challange/tree/master/0494-target-sum) |
 | [0764-largest-plus-sign](https://github.com/Sumit-Maity/Code-Challange/tree/master/0764-largest-plus-sign) |
 | [0823-binary-trees-with-factors](https://github.com/Sumit-Maity/Code-Challange/tree/master/0823-binary-trees-with-factors) |
+| [0894-all-possible-full-binary-trees](https://github.com/Sumit-Maity/Code-Challange/tree/master/0894-all-possible-full-binary-trees) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0404-sum-of-left-leaves](https://github.com/Sumit-Maity/Code-Challange/tree/master/0404-sum-of-left-leaves) |
+| [0894-all-possible-full-binary-trees](https://github.com/Sumit-Maity/Code-Challange/tree/master/0894-all-possible-full-binary-trees) |
 | [0919-complete-binary-tree-inserter](https://github.com/Sumit-Maity/Code-Challange/tree/master/0919-complete-binary-tree-inserter) |
 ## Breadth-First Search
 |  |
@@ -142,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0404-sum-of-left-leaves](https://github.com/Sumit-Maity/Code-Challange/tree/master/0404-sum-of-left-leaves) |
+| [0894-all-possible-full-binary-trees](https://github.com/Sumit-Maity/Code-Challange/tree/master/0894-all-possible-full-binary-trees) |
 | [0919-complete-binary-tree-inserter](https://github.com/Sumit-Maity/Code-Challange/tree/master/0919-complete-binary-tree-inserter) |
 ## Geometry
 |  |
@@ -167,4 +171,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0398-random-pick-index](https://github.com/Sumit-Maity/Code-Challange/tree/master/0398-random-pick-index) |
+## Memoization
+|  |
+| ------- |
+| [0894-all-possible-full-binary-trees](https://github.com/Sumit-Maity/Code-Challange/tree/master/0894-all-possible-full-binary-trees) |
 <!---LeetCode Topics End-->
