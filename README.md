@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Sumit-Maity/Code-Challange/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0349-intersection-of-two-arrays](https://github.com/Sumit-Maity/Code-Challange/tree/master/0349-intersection-of-two-arrays) |
 | [0398-random-pick-index](https://github.com/Sumit-Maity/Code-Challange/tree/master/0398-random-pick-index) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Sumit-Maity/Code-Challange/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0648-replace-words](https://github.com/Sumit-Maity/Code-Challange/tree/master/0648-replace-words) |
 | [0823-binary-trees-with-factors](https://github.com/Sumit-Maity/Code-Challange/tree/master/0823-binary-trees-with-factors) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Sumit-Maity/Code-Challange/tree/master/2248-intersection-of-multiple-arrays) |
@@ -62,12 +63,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/Sumit-Maity/Code-Challange/tree/master/0038-count-and-say) |
 | [0079-word-search](https://github.com/Sumit-Maity/Code-Challange/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/Sumit-Maity/Code-Challange/tree/master/0151-reverse-words-in-a-string) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Sumit-Maity/Code-Challange/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0648-replace-words](https://github.com/Sumit-Maity/Code-Challange/tree/master/0648-replace-words) |
 | [0821-shortest-distance-to-a-character](https://github.com/Sumit-Maity/Code-Challange/tree/master/0821-shortest-distance-to-a-character) |
 ## Sliding Window
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Sumit-Maity/Code-Challange/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Sumit-Maity/Code-Challange/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Linked List
 |  |
 | ------- |
