@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/Sumit-Maity/Code-Challange/tree/master/0396-rotate-function) |
 | [0494-target-sum](https://github.com/Sumit-Maity/Code-Challange/tree/master/0494-target-sum) |
 | [0648-replace-words](https://github.com/Sumit-Maity/Code-Challange/tree/master/0648-replace-words) |
+| [0658-find-k-closest-elements](https://github.com/Sumit-Maity/Code-Challange/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/Sumit-Maity/Code-Challange/tree/master/0704-binary-search) |
 | [0764-largest-plus-sign](https://github.com/Sumit-Maity/Code-Challange/tree/master/0764-largest-plus-sign) |
 | [0821-shortest-distance-to-a-character](https://github.com/Sumit-Maity/Code-Challange/tree/master/0821-shortest-distance-to-a-character) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Sumit-Maity/Code-Challange/tree/master/0151-reverse-words-in-a-string) |
 | [0234-palindrome-linked-list](https://github.com/Sumit-Maity/Code-Challange/tree/master/0234-palindrome-linked-list) |
 | [0349-intersection-of-two-arrays](https://github.com/Sumit-Maity/Code-Challange/tree/master/0349-intersection-of-two-arrays) |
+| [0658-find-k-closest-elements](https://github.com/Sumit-Maity/Code-Challange/tree/master/0658-find-k-closest-elements) |
 | [0821-shortest-distance-to-a-character](https://github.com/Sumit-Maity/Code-Challange/tree/master/0821-shortest-distance-to-a-character) |
 ## Greedy
 |  |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Sumit-Maity/Code-Challange/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Sumit-Maity/Code-Challange/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0658-find-k-closest-elements](https://github.com/Sumit-Maity/Code-Challange/tree/master/0658-find-k-closest-elements) |
 ## Linked List
 |  |
 | ------- |
@@ -89,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Sumit-Maity/Code-Challange/tree/master/0033-search-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Sumit-Maity/Code-Challange/tree/master/0162-find-peak-element) |
 | [0349-intersection-of-two-arrays](https://github.com/Sumit-Maity/Code-Challange/tree/master/0349-intersection-of-two-arrays) |
+| [0658-find-k-closest-elements](https://github.com/Sumit-Maity/Code-Challange/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/Sumit-Maity/Code-Challange/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
@@ -131,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Sumit-Maity/Code-Challange/tree/master/0349-intersection-of-two-arrays) |
+| [0658-find-k-closest-elements](https://github.com/Sumit-Maity/Code-Challange/tree/master/0658-find-k-closest-elements) |
 | [0823-binary-trees-with-factors](https://github.com/Sumit-Maity/Code-Challange/tree/master/0823-binary-trees-with-factors) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Sumit-Maity/Code-Challange/tree/master/2248-intersection-of-multiple-arrays) |
 ## Tree
@@ -178,4 +183,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0894-all-possible-full-binary-trees](https://github.com/Sumit-Maity/Code-Challange/tree/master/0894-all-possible-full-binary-trees) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/Sumit-Maity/Code-Challange/tree/master/0658-find-k-closest-elements) |
 <!---LeetCode Topics End-->
