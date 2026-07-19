@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Sumit-Maity/Code-Challange/tree/master/0349-intersection-of-two-arrays) |
 | [0396-rotate-function](https://github.com/Sumit-Maity/Code-Challange/tree/master/0396-rotate-function) |
 | [0399-evaluate-division](https://github.com/Sumit-Maity/Code-Challange/tree/master/0399-evaluate-division) |
+| [0477-total-hamming-distance](https://github.com/Sumit-Maity/Code-Challange/tree/master/0477-total-hamming-distance) |
 | [0494-target-sum](https://github.com/Sumit-Maity/Code-Challange/tree/master/0494-target-sum) |
 | [0648-replace-words](https://github.com/Sumit-Maity/Code-Challange/tree/master/0648-replace-words) |
 | [0658-find-k-closest-elements](https://github.com/Sumit-Maity/Code-Challange/tree/master/0658-find-k-closest-elements) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0223-rectangle-area](https://github.com/Sumit-Maity/Code-Challange/tree/master/0223-rectangle-area) |
 | [0396-rotate-function](https://github.com/Sumit-Maity/Code-Challange/tree/master/0396-rotate-function) |
 | [0398-random-pick-index](https://github.com/Sumit-Maity/Code-Challange/tree/master/0398-random-pick-index) |
+| [0477-total-hamming-distance](https://github.com/Sumit-Maity/Code-Challange/tree/master/0477-total-hamming-distance) |
 ## String
 |  |
 | ------- |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Sumit-Maity/Code-Challange/tree/master/0029-divide-two-integers) |
+| [0477-total-hamming-distance](https://github.com/Sumit-Maity/Code-Challange/tree/master/0477-total-hamming-distance) |
 ## Dynamic Programming
 |  |
 | ------- |
