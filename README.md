@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Sumit-Maity/Code-Challange/tree/master/0349-intersection-of-two-arrays) |
 | [0398-random-pick-index](https://github.com/Sumit-Maity/Code-Challange/tree/master/0398-random-pick-index) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Sumit-Maity/Code-Challange/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/Sumit-Maity/Code-Challange/tree/master/0451-sort-characters-by-frequency) |
 | [0648-replace-words](https://github.com/Sumit-Maity/Code-Challange/tree/master/0648-replace-words) |
 | [0823-binary-trees-with-factors](https://github.com/Sumit-Maity/Code-Challange/tree/master/0823-binary-trees-with-factors) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Sumit-Maity/Code-Challange/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Sumit-Maity/Code-Challange/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0399-evaluate-division](https://github.com/Sumit-Maity/Code-Challange/tree/master/0399-evaluate-division) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Sumit-Maity/Code-Challange/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/Sumit-Maity/Code-Challange/tree/master/0451-sort-characters-by-frequency) |
 | [0648-replace-words](https://github.com/Sumit-Maity/Code-Challange/tree/master/0648-replace-words) |
 | [0821-shortest-distance-to-a-character](https://github.com/Sumit-Maity/Code-Challange/tree/master/0821-shortest-distance-to-a-character) |
 ## Sliding Window
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Sumit-Maity/Code-Challange/tree/master/0349-intersection-of-two-arrays) |
+| [0451-sort-characters-by-frequency](https://github.com/Sumit-Maity/Code-Challange/tree/master/0451-sort-characters-by-frequency) |
 | [0658-find-k-closest-elements](https://github.com/Sumit-Maity/Code-Challange/tree/master/0658-find-k-closest-elements) |
 | [0823-binary-trees-with-factors](https://github.com/Sumit-Maity/Code-Challange/tree/master/0823-binary-trees-with-factors) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Sumit-Maity/Code-Challange/tree/master/2248-intersection-of-multiple-arrays) |
@@ -178,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Sumit-Maity/Code-Challange/tree/master/0451-sort-characters-by-frequency) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Sumit-Maity/Code-Challange/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Sumit-Maity/Code-Challange/tree/master/2248-intersection-of-multiple-arrays) |
 ## Trie
@@ -204,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Sumit-Maity/Code-Challange/tree/master/0451-sort-characters-by-frequency) |
 | [0658-find-k-closest-elements](https://github.com/Sumit-Maity/Code-Challange/tree/master/0658-find-k-closest-elements) |
 ## Union-Find
 |  |
@@ -217,4 +222,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/Sumit-Maity/Code-Challange/tree/master/0399-evaluate-division) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Sumit-Maity/Code-Challange/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
