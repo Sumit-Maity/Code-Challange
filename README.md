@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Sumit-Maity/Code-Challange/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Sumit-Maity/Code-Challange/tree/master/0404-sum-of-left-leaves) |
+| [0450-delete-node-in-a-bst](https://github.com/Sumit-Maity/Code-Challange/tree/master/0450-delete-node-in-a-bst) |
 | [0894-all-possible-full-binary-trees](https://github.com/Sumit-Maity/Code-Challange/tree/master/0894-all-possible-full-binary-trees) |
 | [0919-complete-binary-tree-inserter](https://github.com/Sumit-Maity/Code-Challange/tree/master/0919-complete-binary-tree-inserter) |
 ## Breadth-First Search
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Sumit-Maity/Code-Challange/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Sumit-Maity/Code-Challange/tree/master/0404-sum-of-left-leaves) |
+| [0450-delete-node-in-a-bst](https://github.com/Sumit-Maity/Code-Challange/tree/master/0450-delete-node-in-a-bst) |
 | [0894-all-possible-full-binary-trees](https://github.com/Sumit-Maity/Code-Challange/tree/master/0894-all-possible-full-binary-trees) |
 | [0919-complete-binary-tree-inserter](https://github.com/Sumit-Maity/Code-Challange/tree/master/0919-complete-binary-tree-inserter) |
 ## Geometry
@@ -233,4 +235,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Sumit-Maity/Code-Challange/tree/master/0207-course-schedule) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0450-delete-node-in-a-bst](https://github.com/Sumit-Maity/Code-Challange/tree/master/0450-delete-node-in-a-bst) |
 <!---LeetCode Topics End-->
