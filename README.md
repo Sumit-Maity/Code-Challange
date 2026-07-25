@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Sumit-Maity/Code-Challange/tree/master/0079-word-search) |
+| [0098-validate-binary-search-tree](https://github.com/Sumit-Maity/Code-Challange/tree/master/0098-validate-binary-search-tree) |
 | [0207-course-schedule](https://github.com/Sumit-Maity/Code-Challange/tree/master/0207-course-schedule) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Sumit-Maity/Code-Challange/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0399-evaluate-division](https://github.com/Sumit-Maity/Code-Challange/tree/master/0399-evaluate-division) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Sumit-Maity/Code-Challange/tree/master/0098-validate-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Sumit-Maity/Code-Challange/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Sumit-Maity/Code-Challange/tree/master/0404-sum-of-left-leaves) |
 | [0450-delete-node-in-a-bst](https://github.com/Sumit-Maity/Code-Challange/tree/master/0450-delete-node-in-a-bst) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Sumit-Maity/Code-Challange/tree/master/0098-validate-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Sumit-Maity/Code-Challange/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Sumit-Maity/Code-Challange/tree/master/0404-sum-of-left-leaves) |
 | [0450-delete-node-in-a-bst](https://github.com/Sumit-Maity/Code-Challange/tree/master/0450-delete-node-in-a-bst) |
@@ -238,5 +241,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Sumit-Maity/Code-Challange/tree/master/0098-validate-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Sumit-Maity/Code-Challange/tree/master/0450-delete-node-in-a-bst) |
 <!---LeetCode Topics End-->
