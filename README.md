@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Sumit-Maity/Code-Challange/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/Sumit-Maity/Code-Challange/tree/master/0055-jump-game) |
+| [0397-integer-replacement](https://github.com/Sumit-Maity/Code-Challange/tree/master/0397-integer-replacement) |
 ## Hash Table
 |  |
 | ------- |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Sumit-Maity/Code-Challange/tree/master/0029-divide-two-integers) |
+| [0397-integer-replacement](https://github.com/Sumit-Maity/Code-Challange/tree/master/0397-integer-replacement) |
 | [0477-total-hamming-distance](https://github.com/Sumit-Maity/Code-Challange/tree/master/0477-total-hamming-distance) |
 ## Dynamic Programming
 |  |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Sumit-Maity/Code-Challange/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/Sumit-Maity/Code-Challange/tree/master/0118-pascals-triangle) |
 | [0396-rotate-function](https://github.com/Sumit-Maity/Code-Challange/tree/master/0396-rotate-function) |
+| [0397-integer-replacement](https://github.com/Sumit-Maity/Code-Challange/tree/master/0397-integer-replacement) |
 | [0494-target-sum](https://github.com/Sumit-Maity/Code-Challange/tree/master/0494-target-sum) |
 | [0764-largest-plus-sign](https://github.com/Sumit-Maity/Code-Challange/tree/master/0764-largest-plus-sign) |
 | [0823-binary-trees-with-factors](https://github.com/Sumit-Maity/Code-Challange/tree/master/0823-binary-trees-with-factors) |
@@ -211,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0397-integer-replacement](https://github.com/Sumit-Maity/Code-Challange/tree/master/0397-integer-replacement) |
 | [0894-all-possible-full-binary-trees](https://github.com/Sumit-Maity/Code-Challange/tree/master/0894-all-possible-full-binary-trees) |
 ## Heap (Priority Queue)
 |  |
