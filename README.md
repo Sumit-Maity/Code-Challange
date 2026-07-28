@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/Sumit-Maity/Code-Challange/tree/master/0396-rotate-function) |
 | [0398-random-pick-index](https://github.com/Sumit-Maity/Code-Challange/tree/master/0398-random-pick-index) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Sumit-Maity/Code-Challange/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0464-can-i-win](https://github.com/Sumit-Maity/Code-Challange/tree/master/0464-can-i-win) |
 | [0477-total-hamming-distance](https://github.com/Sumit-Maity/Code-Challange/tree/master/0477-total-hamming-distance) |
 ## String
 |  |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/Sumit-Maity/Code-Challange/tree/master/0029-divide-two-integers) |
 | [0397-integer-replacement](https://github.com/Sumit-Maity/Code-Challange/tree/master/0397-integer-replacement) |
+| [0464-can-i-win](https://github.com/Sumit-Maity/Code-Challange/tree/master/0464-can-i-win) |
 | [0477-total-hamming-distance](https://github.com/Sumit-Maity/Code-Challange/tree/master/0477-total-hamming-distance) |
 ## Dynamic Programming
 |  |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Sumit-Maity/Code-Challange/tree/master/0118-pascals-triangle) |
 | [0396-rotate-function](https://github.com/Sumit-Maity/Code-Challange/tree/master/0396-rotate-function) |
 | [0397-integer-replacement](https://github.com/Sumit-Maity/Code-Challange/tree/master/0397-integer-replacement) |
+| [0464-can-i-win](https://github.com/Sumit-Maity/Code-Challange/tree/master/0464-can-i-win) |
 | [0494-target-sum](https://github.com/Sumit-Maity/Code-Challange/tree/master/0494-target-sum) |
 | [0764-largest-plus-sign](https://github.com/Sumit-Maity/Code-Challange/tree/master/0764-largest-plus-sign) |
 | [0823-binary-trees-with-factors](https://github.com/Sumit-Maity/Code-Challange/tree/master/0823-binary-trees-with-factors) |
@@ -222,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0397-integer-replacement](https://github.com/Sumit-Maity/Code-Challange/tree/master/0397-integer-replacement) |
+| [0464-can-i-win](https://github.com/Sumit-Maity/Code-Challange/tree/master/0464-can-i-win) |
 | [0894-all-possible-full-binary-trees](https://github.com/Sumit-Maity/Code-Challange/tree/master/0894-all-possible-full-binary-trees) |
 ## Heap (Priority Queue)
 |  |
@@ -254,4 +258,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Sumit-Maity/Code-Challange/tree/master/0098-validate-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Sumit-Maity/Code-Challange/tree/master/0450-delete-node-in-a-bst) |
+## Game Theory
+|  |
+| ------- |
+| [0464-can-i-win](https://github.com/Sumit-Maity/Code-Challange/tree/master/0464-can-i-win) |
+## Bitmask
+|  |
+| ------- |
+| [0464-can-i-win](https://github.com/Sumit-Maity/Code-Challange/tree/master/0464-can-i-win) |
 <!---LeetCode Topics End-->
