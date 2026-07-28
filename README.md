@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Sumit-Maity/Code-Challange/tree/master/0079-word-search) |
 | [0118-pascals-triangle](https://github.com/Sumit-Maity/Code-Challange/tree/master/0118-pascals-triangle) |
 | [0162-find-peak-element](https://github.com/Sumit-Maity/Code-Challange/tree/master/0162-find-peak-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Sumit-Maity/Code-Challange/tree/master/0215-kth-largest-element-in-an-array) |
 | [0349-intersection-of-two-arrays](https://github.com/Sumit-Maity/Code-Challange/tree/master/0349-intersection-of-two-arrays) |
 | [0396-rotate-function](https://github.com/Sumit-Maity/Code-Challange/tree/master/0396-rotate-function) |
 | [0399-evaluate-division](https://github.com/Sumit-Maity/Code-Challange/tree/master/0399-evaluate-division) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Sumit-Maity/Code-Challange/tree/master/0053-maximum-subarray) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Sumit-Maity/Code-Challange/tree/master/0215-kth-largest-element-in-an-array) |
 ## Backtracking
 |  |
 | ------- |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Sumit-Maity/Code-Challange/tree/master/0215-kth-largest-element-in-an-array) |
 | [0349-intersection-of-two-arrays](https://github.com/Sumit-Maity/Code-Challange/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/Sumit-Maity/Code-Challange/tree/master/0451-sort-characters-by-frequency) |
 | [0658-find-k-closest-elements](https://github.com/Sumit-Maity/Code-Challange/tree/master/0658-find-k-closest-elements) |
@@ -230,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Sumit-Maity/Code-Challange/tree/master/0215-kth-largest-element-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Sumit-Maity/Code-Challange/tree/master/0451-sort-characters-by-frequency) |
 | [0658-find-k-closest-elements](https://github.com/Sumit-Maity/Code-Challange/tree/master/0658-find-k-closest-elements) |
 ## Union-Find
@@ -266,4 +270,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0464-can-i-win](https://github.com/Sumit-Maity/Code-Challange/tree/master/0464-can-i-win) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Sumit-Maity/Code-Challange/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
