@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0821-shortest-distance-to-a-character](https://github.com/Sumit-Maity/Code-Challange/tree/master/0821-shortest-distance-to-a-character) |
 | [0823-binary-trees-with-factors](https://github.com/Sumit-Maity/Code-Challange/tree/master/0823-binary-trees-with-factors) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Sumit-Maity/Code-Challange/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
+| [1632-rank-transform-of-a-matrix](https://github.com/Sumit-Maity/Code-Challange/tree/master/1632-rank-transform-of-a-matrix) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Sumit-Maity/Code-Challange/tree/master/2248-intersection-of-multiple-arrays) |
 ## Two Pointers
 |  |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Sumit-Maity/Code-Challange/tree/master/0079-word-search) |
+| [1632-rank-transform-of-a-matrix](https://github.com/Sumit-Maity/Code-Challange/tree/master/1632-rank-transform-of-a-matrix) |
 ## Stack
 |  |
 | ------- |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Sumit-Maity/Code-Challange/tree/master/0451-sort-characters-by-frequency) |
 | [0658-find-k-closest-elements](https://github.com/Sumit-Maity/Code-Challange/tree/master/0658-find-k-closest-elements) |
 | [0823-binary-trees-with-factors](https://github.com/Sumit-Maity/Code-Challange/tree/master/0823-binary-trees-with-factors) |
+| [1632-rank-transform-of-a-matrix](https://github.com/Sumit-Maity/Code-Challange/tree/master/1632-rank-transform-of-a-matrix) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Sumit-Maity/Code-Challange/tree/master/2248-intersection-of-multiple-arrays) |
 ## Tree
 |  |
@@ -242,11 +245,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/Sumit-Maity/Code-Challange/tree/master/0399-evaluate-division) |
+| [1632-rank-transform-of-a-matrix](https://github.com/Sumit-Maity/Code-Challange/tree/master/1632-rank-transform-of-a-matrix) |
 ## Graph Theory
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Sumit-Maity/Code-Challange/tree/master/0207-course-schedule) |
 | [0399-evaluate-division](https://github.com/Sumit-Maity/Code-Challange/tree/master/0399-evaluate-division) |
+| [1632-rank-transform-of-a-matrix](https://github.com/Sumit-Maity/Code-Challange/tree/master/1632-rank-transform-of-a-matrix) |
 ## Shortest Path
 |  |
 | ------- |
@@ -259,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Sumit-Maity/Code-Challange/tree/master/0207-course-schedule) |
+| [1632-rank-transform-of-a-matrix](https://github.com/Sumit-Maity/Code-Challange/tree/master/1632-rank-transform-of-a-matrix) |
 ## Binary Search Tree
 |  |
 | ------- |
