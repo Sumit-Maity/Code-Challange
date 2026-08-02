@@ -1,6 +1,5 @@
 public class Codec {
 
-    // Serialize BST using preorder traversal
     public String serialize(TreeNode root) {
         StringBuilder sb = new StringBuilder();
         preorder(root, sb);
