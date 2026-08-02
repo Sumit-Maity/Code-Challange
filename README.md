@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Sumit-Maity/Code-Challange/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0399-evaluate-division](https://github.com/Sumit-Maity/Code-Challange/tree/master/0399-evaluate-division) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Sumit-Maity/Code-Challange/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0449-serialize-and-deserialize-bst](https://github.com/Sumit-Maity/Code-Challange/tree/master/0449-serialize-and-deserialize-bst) |
 | [0451-sort-characters-by-frequency](https://github.com/Sumit-Maity/Code-Challange/tree/master/0451-sort-characters-by-frequency) |
 | [0474-ones-and-zeroes](https://github.com/Sumit-Maity/Code-Challange/tree/master/0474-ones-and-zeroes) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Sumit-Maity/Code-Challange/tree/master/0592-fraction-addition-and-subtraction) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Sumit-Maity/Code-Challange/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0399-evaluate-division](https://github.com/Sumit-Maity/Code-Challange/tree/master/0399-evaluate-division) |
 | [0404-sum-of-left-leaves](https://github.com/Sumit-Maity/Code-Challange/tree/master/0404-sum-of-left-leaves) |
+| [0449-serialize-and-deserialize-bst](https://github.com/Sumit-Maity/Code-Challange/tree/master/0449-serialize-and-deserialize-bst) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Sumit-Maity/Code-Challange/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Matrix
 |  |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/Sumit-Maity/Code-Challange/tree/master/0098-validate-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Sumit-Maity/Code-Challange/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Sumit-Maity/Code-Challange/tree/master/0404-sum-of-left-leaves) |
+| [0449-serialize-and-deserialize-bst](https://github.com/Sumit-Maity/Code-Challange/tree/master/0449-serialize-and-deserialize-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/Sumit-Maity/Code-Challange/tree/master/0450-delete-node-in-a-bst) |
 | [0894-all-possible-full-binary-trees](https://github.com/Sumit-Maity/Code-Challange/tree/master/0894-all-possible-full-binary-trees) |
 | [0919-complete-binary-tree-inserter](https://github.com/Sumit-Maity/Code-Challange/tree/master/0919-complete-binary-tree-inserter) |
@@ -204,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Sumit-Maity/Code-Challange/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0399-evaluate-division](https://github.com/Sumit-Maity/Code-Challange/tree/master/0399-evaluate-division) |
 | [0404-sum-of-left-leaves](https://github.com/Sumit-Maity/Code-Challange/tree/master/0404-sum-of-left-leaves) |
+| [0449-serialize-and-deserialize-bst](https://github.com/Sumit-Maity/Code-Challange/tree/master/0449-serialize-and-deserialize-bst) |
 | [0854-k-similar-strings](https://github.com/Sumit-Maity/Code-Challange/tree/master/0854-k-similar-strings) |
 | [0919-complete-binary-tree-inserter](https://github.com/Sumit-Maity/Code-Challange/tree/master/0919-complete-binary-tree-inserter) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Sumit-Maity/Code-Challange/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -213,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/Sumit-Maity/Code-Challange/tree/master/0098-validate-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Sumit-Maity/Code-Challange/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Sumit-Maity/Code-Challange/tree/master/0404-sum-of-left-leaves) |
+| [0449-serialize-and-deserialize-bst](https://github.com/Sumit-Maity/Code-Challange/tree/master/0449-serialize-and-deserialize-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/Sumit-Maity/Code-Challange/tree/master/0450-delete-node-in-a-bst) |
 | [0894-all-possible-full-binary-trees](https://github.com/Sumit-Maity/Code-Challange/tree/master/0894-all-possible-full-binary-trees) |
 | [0919-complete-binary-tree-inserter](https://github.com/Sumit-Maity/Code-Challange/tree/master/0919-complete-binary-tree-inserter) |
@@ -235,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Sumit-Maity/Code-Challange/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0449-serialize-and-deserialize-bst](https://github.com/Sumit-Maity/Code-Challange/tree/master/0449-serialize-and-deserialize-bst) |
 | [0919-complete-binary-tree-inserter](https://github.com/Sumit-Maity/Code-Challange/tree/master/0919-complete-binary-tree-inserter) |
 ## Reservoir Sampling
 |  |
@@ -284,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Sumit-Maity/Code-Challange/tree/master/0098-validate-binary-search-tree) |
+| [0449-serialize-and-deserialize-bst](https://github.com/Sumit-Maity/Code-Challange/tree/master/0449-serialize-and-deserialize-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/Sumit-Maity/Code-Challange/tree/master/0450-delete-node-in-a-bst) |
 ## Game Theory
 |  |
