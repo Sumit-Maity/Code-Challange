@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Sumit-Maity/Code-Challange/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1632-rank-transform-of-a-matrix](https://github.com/Sumit-Maity/Code-Challange/tree/master/1632-rank-transform-of-a-matrix) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Sumit-Maity/Code-Challange/tree/master/2248-intersection-of-multiple-arrays) |
+| [2786-visit-array-positions-to-maximize-score](https://github.com/Sumit-Maity/Code-Challange/tree/master/2786-visit-array-positions-to-maximize-score) |
 ## Two Pointers
 |  |
 | ------- |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0764-largest-plus-sign](https://github.com/Sumit-Maity/Code-Challange/tree/master/0764-largest-plus-sign) |
 | [0823-binary-trees-with-factors](https://github.com/Sumit-Maity/Code-Challange/tree/master/0823-binary-trees-with-factors) |
 | [0894-all-possible-full-binary-trees](https://github.com/Sumit-Maity/Code-Challange/tree/master/0894-all-possible-full-binary-trees) |
+| [2786-visit-array-positions-to-maximize-score](https://github.com/Sumit-Maity/Code-Challange/tree/master/2786-visit-array-positions-to-maximize-score) |
 ## Divide and Conquer
 |  |
 | ------- |
