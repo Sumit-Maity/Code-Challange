@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0464-can-i-win](https://github.com/Sumit-Maity/Code-Challange/tree/master/0464-can-i-win) |
 | [0477-total-hamming-distance](https://github.com/Sumit-Maity/Code-Challange/tree/master/0477-total-hamming-distance) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Sumit-Maity/Code-Challange/tree/master/0592-fraction-addition-and-subtraction) |
+| [0640-solve-the-equation](https://github.com/Sumit-Maity/Code-Challange/tree/master/0640-solve-the-equation) |
 | [0667-beautiful-arrangement-ii](https://github.com/Sumit-Maity/Code-Challange/tree/master/0667-beautiful-arrangement-ii) |
 ## String
 |  |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Sumit-Maity/Code-Challange/tree/master/0451-sort-characters-by-frequency) |
 | [0474-ones-and-zeroes](https://github.com/Sumit-Maity/Code-Challange/tree/master/0474-ones-and-zeroes) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Sumit-Maity/Code-Challange/tree/master/0592-fraction-addition-and-subtraction) |
+| [0640-solve-the-equation](https://github.com/Sumit-Maity/Code-Challange/tree/master/0640-solve-the-equation) |
 | [0648-replace-words](https://github.com/Sumit-Maity/Code-Challange/tree/master/0648-replace-words) |
 | [0821-shortest-distance-to-a-character](https://github.com/Sumit-Maity/Code-Challange/tree/master/0821-shortest-distance-to-a-character) |
 | [0854-k-similar-strings](https://github.com/Sumit-Maity/Code-Challange/tree/master/0854-k-similar-strings) |
@@ -308,4 +310,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0592-fraction-addition-and-subtraction](https://github.com/Sumit-Maity/Code-Challange/tree/master/0592-fraction-addition-and-subtraction) |
+| [0640-solve-the-equation](https://github.com/Sumit-Maity/Code-Challange/tree/master/0640-solve-the-equation) |
+## Linear Algebra
+|  |
+| ------- |
+| [0640-solve-the-equation](https://github.com/Sumit-Maity/Code-Challange/tree/master/0640-solve-the-equation) |
 <!---LeetCode Topics End-->
