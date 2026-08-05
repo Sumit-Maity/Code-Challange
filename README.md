@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Sumit-Maity/Code-Challange/tree/master/0055-jump-game) |
 | [0179-largest-number](https://github.com/Sumit-Maity/Code-Challange/tree/master/0179-largest-number) |
 | [0397-integer-replacement](https://github.com/Sumit-Maity/Code-Challange/tree/master/0397-integer-replacement) |
+| [0678-valid-parenthesis-string](https://github.com/Sumit-Maity/Code-Challange/tree/master/0678-valid-parenthesis-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0592-fraction-addition-and-subtraction](https://github.com/Sumit-Maity/Code-Challange/tree/master/0592-fraction-addition-and-subtraction) |
 | [0640-solve-the-equation](https://github.com/Sumit-Maity/Code-Challange/tree/master/0640-solve-the-equation) |
 | [0648-replace-words](https://github.com/Sumit-Maity/Code-Challange/tree/master/0648-replace-words) |
+| [0678-valid-parenthesis-string](https://github.com/Sumit-Maity/Code-Challange/tree/master/0678-valid-parenthesis-string) |
 | [0821-shortest-distance-to-a-character](https://github.com/Sumit-Maity/Code-Challange/tree/master/0821-shortest-distance-to-a-character) |
 | [0854-k-similar-strings](https://github.com/Sumit-Maity/Code-Challange/tree/master/0854-k-similar-strings) |
 ## Sliding Window
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0464-can-i-win](https://github.com/Sumit-Maity/Code-Challange/tree/master/0464-can-i-win) |
 | [0474-ones-and-zeroes](https://github.com/Sumit-Maity/Code-Challange/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/Sumit-Maity/Code-Challange/tree/master/0494-target-sum) |
+| [0678-valid-parenthesis-string](https://github.com/Sumit-Maity/Code-Challange/tree/master/0678-valid-parenthesis-string) |
 | [0764-largest-plus-sign](https://github.com/Sumit-Maity/Code-Challange/tree/master/0764-largest-plus-sign) |
 | [0823-binary-trees-with-factors](https://github.com/Sumit-Maity/Code-Challange/tree/master/0823-binary-trees-with-factors) |
 | [0894-all-possible-full-binary-trees](https://github.com/Sumit-Maity/Code-Challange/tree/master/0894-all-possible-full-binary-trees) |
@@ -182,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Sumit-Maity/Code-Challange/tree/master/0234-palindrome-linked-list) |
+| [0678-valid-parenthesis-string](https://github.com/Sumit-Maity/Code-Challange/tree/master/0678-valid-parenthesis-string) |
 ## Sorting
 |  |
 | ------- |
@@ -317,4 +321,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0640-solve-the-equation](https://github.com/Sumit-Maity/Code-Challange/tree/master/0640-solve-the-equation) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/Sumit-Maity/Code-Challange/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
