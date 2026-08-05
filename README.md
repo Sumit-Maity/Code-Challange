@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0592-fraction-addition-and-subtraction](https://github.com/Sumit-Maity/Code-Challange/tree/master/0592-fraction-addition-and-subtraction) |
 | [0640-solve-the-equation](https://github.com/Sumit-Maity/Code-Challange/tree/master/0640-solve-the-equation) |
 | [0667-beautiful-arrangement-ii](https://github.com/Sumit-Maity/Code-Challange/tree/master/0667-beautiful-arrangement-ii) |
+| [0754-reach-a-number](https://github.com/Sumit-Maity/Code-Challange/tree/master/0754-reach-a-number) |
 ## String
 |  |
 | ------- |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Sumit-Maity/Code-Challange/tree/master/0349-intersection-of-two-arrays) |
 | [0658-find-k-closest-elements](https://github.com/Sumit-Maity/Code-Challange/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/Sumit-Maity/Code-Challange/tree/master/0704-binary-search) |
+| [0754-reach-a-number](https://github.com/Sumit-Maity/Code-Challange/tree/master/0754-reach-a-number) |
 ## Bit Manipulation
 |  |
 | ------- |
