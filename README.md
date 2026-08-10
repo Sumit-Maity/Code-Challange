@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Sumit-Maity/Code-Challange/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Sumit-Maity/Code-Challange/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Sumit-Maity/Code-Challange/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/Sumit-Maity/Code-Challange/tree/master/0031-next-permutation) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sumit-Maity/Code-Challange/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/Sumit-Maity/Code-Challange/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/Sumit-Maity/Code-Challange/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/Sumit-Maity/Code-Challange/tree/master/0012-integer-to-roman) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Sumit-Maity/Code-Challange/tree/master/0030-substring-with-concatenation-of-all-words) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Sumit-Maity/Code-Challange/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Sumit-Maity/Code-Challange/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Sumit-Maity/Code-Challange/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/Sumit-Maity/Code-Challange/tree/master/0118-pascals-triangle) |
@@ -332,4 +335,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/Sumit-Maity/Code-Challange/tree/master/0678-valid-parenthesis-string) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Sumit-Maity/Code-Challange/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
