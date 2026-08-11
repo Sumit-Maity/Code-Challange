@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Sumit-Maity/Code-Challange/tree/master/0678-valid-parenthesis-string) |
 | [0821-shortest-distance-to-a-character](https://github.com/Sumit-Maity/Code-Challange/tree/master/0821-shortest-distance-to-a-character) |
 | [0854-k-similar-strings](https://github.com/Sumit-Maity/Code-Challange/tree/master/0854-k-similar-strings) |
+| [0856-score-of-parentheses](https://github.com/Sumit-Maity/Code-Challange/tree/master/0856-score-of-parentheses) |
 ## Sliding Window
 |  |
 | ------- |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Sumit-Maity/Code-Challange/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Sumit-Maity/Code-Challange/tree/master/0234-palindrome-linked-list) |
 | [0678-valid-parenthesis-string](https://github.com/Sumit-Maity/Code-Challange/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/Sumit-Maity/Code-Challange/tree/master/0856-score-of-parentheses) |
 ## Sorting
 |  |
 | ------- |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/Sumit-Maity/Code-Challange/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/Sumit-Maity/Code-Challange/tree/master/0856-score-of-parentheses) |
 ## Manacher
 |  |
 | ------- |
