@@ -298,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Sumit-Maity/Code-Challange/tree/master/0207-course-schedule) |
 | [0399-evaluate-division](https://github.com/Sumit-Maity/Code-Challange/tree/master/0399-evaluate-division) |
 | [1632-rank-transform-of-a-matrix](https://github.com/Sumit-Maity/Code-Challange/tree/master/1632-rank-transform-of-a-matrix) |
+| [1791-find-center-of-star-graph](https://github.com/Sumit-Maity/Code-Challange/tree/master/1791-find-center-of-star-graph) |
 ## Shortest Path
 |  |
 | ------- |
