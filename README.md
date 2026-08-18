@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0823-binary-trees-with-factors](https://github.com/Sumit-Maity/Code-Challange/tree/master/0823-binary-trees-with-factors) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Sumit-Maity/Code-Challange/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1632-rank-transform-of-a-matrix](https://github.com/Sumit-Maity/Code-Challange/tree/master/1632-rank-transform-of-a-matrix) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Sumit-Maity/Code-Challange/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Sumit-Maity/Code-Challange/tree/master/2248-intersection-of-multiple-arrays) |
 | [2786-visit-array-positions-to-maximize-score](https://github.com/Sumit-Maity/Code-Challange/tree/master/2786-visit-array-positions-to-maximize-score) |
 ## Two Pointers
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Sumit-Maity/Code-Challange/tree/master/0349-intersection-of-two-arrays) |
 | [0658-find-k-closest-elements](https://github.com/Sumit-Maity/Code-Challange/tree/master/0658-find-k-closest-elements) |
 | [0821-shortest-distance-to-a-character](https://github.com/Sumit-Maity/Code-Challange/tree/master/0821-shortest-distance-to-a-character) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Sumit-Maity/Code-Challange/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Greedy
 |  |
 | ------- |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Sumit-Maity/Code-Challange/tree/master/0179-largest-number) |
 | [0397-integer-replacement](https://github.com/Sumit-Maity/Code-Challange/tree/master/0397-integer-replacement) |
 | [0678-valid-parenthesis-string](https://github.com/Sumit-Maity/Code-Challange/tree/master/0678-valid-parenthesis-string) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Sumit-Maity/Code-Challange/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -210,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/Sumit-Maity/Code-Challange/tree/master/0658-find-k-closest-elements) |
 | [0823-binary-trees-with-factors](https://github.com/Sumit-Maity/Code-Challange/tree/master/0823-binary-trees-with-factors) |
 | [1632-rank-transform-of-a-matrix](https://github.com/Sumit-Maity/Code-Challange/tree/master/1632-rank-transform-of-a-matrix) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Sumit-Maity/Code-Challange/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Sumit-Maity/Code-Challange/tree/master/2248-intersection-of-multiple-arrays) |
 ## Tree
 |  |
