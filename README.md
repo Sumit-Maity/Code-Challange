@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Sumit-Maity/Code-Challange/tree/master/0162-find-peak-element) |
 | [0179-largest-number](https://github.com/Sumit-Maity/Code-Challange/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sumit-Maity/Code-Challange/tree/master/0215-kth-largest-element-in-an-array) |
+| [0336-palindrome-pairs](https://github.com/Sumit-Maity/Code-Challange/tree/master/0336-palindrome-pairs) |
 | [0349-intersection-of-two-arrays](https://github.com/Sumit-Maity/Code-Challange/tree/master/0349-intersection-of-two-arrays) |
 | [0396-rotate-function](https://github.com/Sumit-Maity/Code-Challange/tree/master/0396-rotate-function) |
 | [0399-evaluate-division](https://github.com/Sumit-Maity/Code-Challange/tree/master/0399-evaluate-division) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Sumit-Maity/Code-Challange/tree/master/0012-integer-to-roman) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Sumit-Maity/Code-Challange/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0141-linked-list-cycle](https://github.com/Sumit-Maity/Code-Challange/tree/master/0141-linked-list-cycle) |
+| [0336-palindrome-pairs](https://github.com/Sumit-Maity/Code-Challange/tree/master/0336-palindrome-pairs) |
 | [0349-intersection-of-two-arrays](https://github.com/Sumit-Maity/Code-Challange/tree/master/0349-intersection-of-two-arrays) |
 | [0398-random-pick-index](https://github.com/Sumit-Maity/Code-Challange/tree/master/0398-random-pick-index) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Sumit-Maity/Code-Challange/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Sumit-Maity/Code-Challange/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/Sumit-Maity/Code-Challange/tree/master/0179-largest-number) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Sumit-Maity/Code-Challange/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0336-palindrome-pairs](https://github.com/Sumit-Maity/Code-Challange/tree/master/0336-palindrome-pairs) |
 | [0399-evaluate-division](https://github.com/Sumit-Maity/Code-Challange/tree/master/0399-evaluate-division) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Sumit-Maity/Code-Challange/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Sumit-Maity/Code-Challange/tree/master/0449-serialize-and-deserialize-bst) |
@@ -264,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0336-palindrome-pairs](https://github.com/Sumit-Maity/Code-Challange/tree/master/0336-palindrome-pairs) |
 | [0648-replace-words](https://github.com/Sumit-Maity/Code-Challange/tree/master/0648-replace-words) |
 ## Design
 |  |
@@ -352,4 +356,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Sumit-Maity/Code-Challange/tree/master/0005-longest-palindromic-substring) |
+## Hash Function
+|  |
+| ------- |
+| [0336-palindrome-pairs](https://github.com/Sumit-Maity/Code-Challange/tree/master/0336-palindrome-pairs) |
 <!---LeetCode Topics End-->
