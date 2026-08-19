@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Sumit-Maity/Code-Challange/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Sumit-Maity/Code-Challange/tree/master/2248-intersection-of-multiple-arrays) |
 | [2786-visit-array-positions-to-maximize-score](https://github.com/Sumit-Maity/Code-Challange/tree/master/2786-visit-array-positions-to-maximize-score) |
+| [3729-count-distinct-subarrays-divisible-by-k-in-sorted-array](https://github.com/Sumit-Maity/Code-Challange/tree/master/3729-count-distinct-subarrays-divisible-by-k-in-sorted-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0854-k-similar-strings](https://github.com/Sumit-Maity/Code-Challange/tree/master/0854-k-similar-strings) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Sumit-Maity/Code-Challange/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Sumit-Maity/Code-Challange/tree/master/2248-intersection-of-multiple-arrays) |
+| [3729-count-distinct-subarrays-divisible-by-k-in-sorted-array](https://github.com/Sumit-Maity/Code-Challange/tree/master/3729-count-distinct-subarrays-divisible-by-k-in-sorted-array) |
 ## Math
 |  |
 | ------- |
@@ -360,4 +362,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0336-palindrome-pairs](https://github.com/Sumit-Maity/Code-Challange/tree/master/0336-palindrome-pairs) |
+## Prefix Sum
+|  |
+| ------- |
+| [3729-count-distinct-subarrays-divisible-by-k-in-sorted-array](https://github.com/Sumit-Maity/Code-Challange/tree/master/3729-count-distinct-subarrays-divisible-by-k-in-sorted-array) |
 <!---LeetCode Topics End-->
