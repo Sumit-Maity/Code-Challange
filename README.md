@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1632-rank-transform-of-a-matrix](https://github.com/Sumit-Maity/Code-Challange/tree/master/1632-rank-transform-of-a-matrix) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Sumit-Maity/Code-Challange/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Sumit-Maity/Code-Challange/tree/master/2248-intersection-of-multiple-arrays) |
+| [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Sumit-Maity/Code-Challange/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2786-visit-array-positions-to-maximize-score](https://github.com/Sumit-Maity/Code-Challange/tree/master/2786-visit-array-positions-to-maximize-score) |
 | [3729-count-distinct-subarrays-divisible-by-k-in-sorted-array](https://github.com/Sumit-Maity/Code-Challange/tree/master/3729-count-distinct-subarrays-divisible-by-k-in-sorted-array) |
 ## Two Pointers
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0397-integer-replacement](https://github.com/Sumit-Maity/Code-Challange/tree/master/0397-integer-replacement) |
 | [0678-valid-parenthesis-string](https://github.com/Sumit-Maity/Code-Challange/tree/master/0678-valid-parenthesis-string) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Sumit-Maity/Code-Challange/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Sumit-Maity/Code-Challange/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0854-k-similar-strings](https://github.com/Sumit-Maity/Code-Challange/tree/master/0854-k-similar-strings) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Sumit-Maity/Code-Challange/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Sumit-Maity/Code-Challange/tree/master/2248-intersection-of-multiple-arrays) |
+| [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Sumit-Maity/Code-Challange/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3729-count-distinct-subarrays-divisible-by-k-in-sorted-array](https://github.com/Sumit-Maity/Code-Challange/tree/master/3729-count-distinct-subarrays-divisible-by-k-in-sorted-array) |
 ## Math
 |  |
@@ -152,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/Sumit-Maity/Code-Challange/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/Sumit-Maity/Code-Challange/tree/master/0704-binary-search) |
 | [0754-reach-a-number](https://github.com/Sumit-Maity/Code-Challange/tree/master/0754-reach-a-number) |
+| [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Sumit-Maity/Code-Challange/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -222,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1632-rank-transform-of-a-matrix](https://github.com/Sumit-Maity/Code-Challange/tree/master/1632-rank-transform-of-a-matrix) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Sumit-Maity/Code-Challange/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Sumit-Maity/Code-Challange/tree/master/2248-intersection-of-multiple-arrays) |
+| [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Sumit-Maity/Code-Challange/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Tree
 |  |
 | ------- |
